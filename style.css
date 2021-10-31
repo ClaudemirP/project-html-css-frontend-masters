@@ -2,9 +2,11 @@
     box-sizing: border-box;
 }
 .title {
-    font-family: 'kaushan-script';
+    font-family: 'Great Vibes', cursive;
+    font-weight: normal;
     text-align: center;
     font-size: 80px;
+    margin: 60px 0;
 }
 .section {
     display: flex;
@@ -13,12 +15,11 @@
     margin: 0px 20px 0px 20px;
     border: 1px solid black;
 }
-#puppies {
+.metade {
     width: 50%;
 }
 .article {
     height: 30%;
-    width: 25%;
     margin: 10px;
 }
 .images {
